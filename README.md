@@ -31,7 +31,5 @@
   <li>About the company who demonstrates the biggest revenue, what’s its assets over time?</li>
   <li>And about the company who demonstrates the biggest net income, what’s its equity over time?</li>
   <li>What’s the relation of the assets and liabilities between the company who demonstrates the biggest equity in 2024?</li>
-  <li>Among the companies who work in the automobilistic industry, who demonstrates the nicest ROA indicator in 2024?</li>
-  <li>And, among these companies, who demonstrates the nicest ROE indicator in 2024?</li>
-  <li>And about the nicest debt to equity in that year?</li>
+  <li>Among the companies who work in the automobilistic industry, who demonstrates the nicest debt to equity indicator in 2024?</li>
 </ul>
