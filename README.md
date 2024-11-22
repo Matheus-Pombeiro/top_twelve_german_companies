@@ -6,7 +6,7 @@
 
 ### 1.1 Dataset key features
 
-<p align='justify'>The <a href="https://www.kaggle.com/datasets/willianoliveiragibin/top-12-german-companies">dataset</a> used in this project was obtained from <a href="">https://www.kaggle.com/</a>. Next, there is some information about the data structure and key features of it.</p>
+<p align='justify'>The <a href="https://www.kaggle.com/datasets/willianoliveiragibin/top-12-german-companies">dataset</a> used in this project was obtained from <a href="https://www.kaggle.com/">Kaggle</a>. Next, there is some information about the data structure and key features of it.</p>
 
 <ul>
   <li>Company: This field identifies the company associated with the financial data, such as "Volkswagen AG" or "Siemens AG." It categorizes the data for cross-company comparisons and trend analysis of individual organizations.</li>
