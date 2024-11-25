@@ -33,3 +33,16 @@
   <li>What’s the relation of the assets and liabilities between the company who demonstrates the biggest equity in 2024?</li>
   <li>Among the companies who work in the automobilistic industry, who demonstrates the nicest debt to equity indicator in 2024?</li>
 </ul>
+
+## 2. Data analysis
+
+### 2.1 The biggest revenue over time
+
+<p align='justify'>Considering the concept of revenue, which is the total amount of money a company generates from its primary operations, or, essentially, the income a business earns from selling its goods or services, it was found the company who had the highest revenue from 2017 to 2024, which is Merck KGaA. This company is focused in science and technology, and has been demonstrating a good revenue performance since 2017.</p>
+
+<div align="center">
+  <img src="assets/charts/revenue_of_merck_kgaa_over_time.png" alt="Revenue of Merck KGaA over time"/>
+</div>
+<br>
+
+<p align='justify'>Looking at the chart it’s possible to see this performance through the years. The Merck KGaA’s revenue was growing until the end of 2019, when the COVID-19 pandemic started. Right after that, the company presented some difficulties to keep constant. Although, from 2022, when the pandemic ended, to 2024 Merck 	KGaA’s revenue has demonstrated a good stability, surpassing its best mark in 2019.</p>
