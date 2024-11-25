@@ -45,4 +45,4 @@
 </div>
 <br>
 
-<p align='justify'>Looking at the chart it’s possible to see this performance through the years. The Merck KGaA’s revenue was growing until the end of 2019, when the COVID-19 pandemic started. Right after that, the company presented some difficulties to keep constant. Although, from 2022, when the pandemic ended, to 2024 Merck 	KGaA’s revenue has demonstrated a good stability, surpassing its best mark in 2019.</p>
+<p align='justify'>Looking at the chart it’s possible to see this performance through the years. The Merck KGaA’s revenue was growing until the end of 2019, when the COVID-19 pandemic started. Right after that, the company presented some difficulties to keep constant. Although, from 2022, when the pandemic ended, to 2024 Merck 	KGaA’s revenue demonstrated a good stability, surpassing its best mark in 2019.</p>
