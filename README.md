@@ -46,3 +46,14 @@
 <br>
 
 <p align='justify'>Looking at the chart it’s possible to see this performance through the years. The Merck KGaA’s revenue was growing until the end of 2019, when the COVID-19 pandemic started. Right after that, the company presented some difficulties to keep constant. Although, from 2022, when the pandemic ended, to 2024 Merck 	KGaA’s revenue demonstrated a good stability, surpassing its best mark in 2019.</p>
+
+### 2.2 The biggest net income over time
+
+<p align='justify'>The company who had the highest net income through the last years was Merck KGaA as well. This fact demonstrates a good performance, especially if considered the issues which happened in the global economy during this time.</p>
+
+<div align="center">
+  <img src="assets/charts/net_income_of_merck_kgaa_over_time.png" alt="Net income of Merck KGaA over time"/>
+</div>
+<br>
+
+<p align='justify'>Analyzing the chart it’s possible to note a small difference about the net income of this company in comparison to its revenue through this same period of time. The net income of the company in 2019 (before the pandemic) was lesser than in 2021 (during the pandemic). Even so, there is a good similarity, which is the considerable and constant growth from 2022 to 2024.</p>
